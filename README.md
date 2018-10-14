@@ -1,4 +1,4 @@
-This is a basic boiler plate to get a react session started.  It is bare.
+This is a basic boiler plate to get a redux with react and babel session started.  It is bare.
 
 Once you have this repo cloned or downloaded you will need to run:
 ```
