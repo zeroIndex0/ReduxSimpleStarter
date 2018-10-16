@@ -1,25 +1,10 @@
-# ReduxSimpleStarter
+This is a basic boiler plate to get a redux with react and babel session started.  It is bare.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
+Once you have this repo cloned or downloaded you will need to run:
 ```
 > npm install
 > npm start
 ```
+and you can then find it on localhost:8080
+
+This was forked from [Stephen Grider](https://github.com/StephenGrider) and you can find a react course of his [here](https://www.udemy.com/react-redux/)
